@@ -36,6 +36,7 @@ Seasonal Promotions: Offer promotions during off-peak seasons to boost sales.
 **
 This project highlights the value of data-driven decision-making in e-commerce. By leveraging Power BI for in-depth analysis, businesses can gain crucial insights into customer behavior, product performance, and sales trends, leading to more effective strategies and improved profitability.
 
+![Screenshot (73)](https://github.com/user-attachments/assets/732dda86-4829-432c-88f9-67c169f8db9b)
 
 
 
